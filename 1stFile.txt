@@ -1,1 +1,2 @@
 Creating my first file
+Adding a line to check if it is tracked or not
